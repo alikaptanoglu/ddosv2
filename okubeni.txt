@@ -1,0 +1,6 @@
+program .Net visual studio da yazilmistir. calismasi icin .Net Framework 2.0 kurulu olmasi gerekir.
+Aksi halde calismicaktir..
+
+http://www.microsoft.com/downloads/details.aspx?FamilyID=0856EACB-4362-4B0D-8EDD-AAB15C5E04F5&displaylang=tr
+
+burdan indirebilirsiniz... 
